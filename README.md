@@ -14,12 +14,11 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-0078D4?style=for-the-badge&logo=nodemailer&logoColor=white)
 
 
 
 <h1>🤖 Introduction</h1>
-<p>Welcome to our Croma eCommerce clone project, built using React JS, JavaScript, JSX, HTML, CSS, Tailwind CSS, and Chakra UI. This project is designed to replicate the seamless shopping experience of Croma, with a strong emphasis on responsive design that ensures optimal performance across mobile, tablet, and desktop devices.</p>
+<p>Welcome to Croma eCommerce clone project, built using React JS, JavaScript, JSX, HTML, CSS, Tailwind CSS, and Chakra UI. This project is designed to replicate the seamless shopping experience of Croma, with a strong emphasis on responsive design that ensures optimal performance across mobile, tablet, and desktop devices.</p>
 
 <h1>⚙️ Showcase of Used Tech Stack</h1>
 <h3>Frontend:</h3>
@@ -41,7 +40,7 @@
   <li>Express: A web application framework for Node.js, used to build the backend.</li>
   <li>Node.js: A JavaScript runtime built on Chrome's V8 JavaScript engine, used to build scalable network applications.</li>
   <li>JWT: Used for generating and verifying JSON Web Tokens for secure user authentication.</li>
-  <li>Nodemailer: A module for Node.js applications to send emails, used here to generate OTPs for user authentication.</li>
+  
 </ul>
 
 <h3>API:</h3>
@@ -77,7 +76,7 @@
   <li>Set up routes and controllers using Express.</li>
   <li>Implement functionality using JavaScript to enable shopping features.</li>
   <li>Implement JWT for secure user authentication.</li>
-  <li>Use Nodemailer to send OTPs for user authentication.</li>
+ 
 </ul>
 
 <h3>Deployment:</h3>
@@ -90,7 +89,7 @@ https://github.com/pushpamahto/croma-project
 
 <h1>📷 Screenshots</h1>
 <h3>🏠 Home Page</h3>
-<img src="c:\Users\acesn\OneDrive\Pictures\Screenshots\Screenshot (661).png" alt="project-screenshot" width="1000" height="450/">
+<img src="" alt="project-screenshot" width="1000" height="450/">
 
 <h3>🏠 Home Page 2</h3>
 <img src="" alt="project-screenshot" width="1000" height="450/">
