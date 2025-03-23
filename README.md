@@ -87,12 +87,4 @@
 <h3>GitHub Repo Link</h3>
 https://github.com/pushpamahto/croma-project
 
-<h1>📷 Screenshots</h1>
-<h3>🏠 Home Page</h3>
-<img src="" alt="project-screenshot" width="1000" height="450/">
 
-<h3>🏠 Home Page 2</h3>
-<img src="" alt="project-screenshot" width="1000" height="450/">
-
-<h3>📱 Responsive Mobile View</h3>
-<img src="" alt="project-screenshot" width="400" height="750/">
