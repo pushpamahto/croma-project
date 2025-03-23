@@ -88,3 +88,29 @@
 https://github.com/pushpamahto/croma-project
 
 
+
+
+
+
+
+Home
+![Screenshot (661)](https://github.com/user-attachments/assets/a67a4705-0e5a-48b9-ba1d-28c04024f2b1)
+
+
+
+Search Product
+![Screenshot (662)](https://github.com/user-attachments/assets/fca7fc53-364e-491c-a06d-824a9e740382)
+
+
+
+Wishlist
+![Screenshot (663)](https://github.com/user-attachments/assets/27002197-cce4-45aa-956d-eb2fcbc76a4f)
+
+
+
+
+Add to Cart
+![Screenshot (664)](https://github.com/user-attachments/assets/f1581060-3171-4cbb-b133-9f502734febd)
+
+
+
