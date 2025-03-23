@@ -86,14 +86,14 @@
 </ul>
 
 <h3>GitHub Repo Link</h3>
-https://github.com/kundankrgupta1/croma_client
+https://github.com/pushpamahto/croma-project
 
 <h1>📷 Screenshots</h1>
 <h3>🏠 Home Page</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/media/main/assets/Screenshot%202024-08-11%20235128.png" alt="project-screenshot" width="1000" height="450/">
+<img src="c:\Users\acesn\OneDrive\Pictures\Screenshots\Screenshot (661).png" alt="project-screenshot" width="1000" height="450/">
 
 <h3>🏠 Home Page 2</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/media/main/assets/croma%20home2.png" alt="project-screenshot" width="1000" height="450/">
+<img src="" alt="project-screenshot" width="1000" height="450/">
 
 <h3>📱 Responsive Mobile View</h3>
-<img src="https://raw.githubusercontent.com/kundankrgupta1/media/main/assets/Screenshot%202024-08-11%20235300.png" alt="project-screenshot" width="400" height="750/">
+<img src="" alt="project-screenshot" width="400" height="750/">
